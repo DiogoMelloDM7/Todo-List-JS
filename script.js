@@ -34,10 +34,11 @@ function showValues(){
 
 function removeItem(data){
     let values = JSON.parse(localStorage.getItem(localStorageName) || "[]");
-    let index = values.find(x => x.name == data);
+    let index = values.findIndex(x => x.name == data);
+    if (index !== -1){
     values.splice(index, 1);
     localStorage.setItem(localStorageName, JSON.stringify(values));
-    showValues();
+    showValues();}
 
 }
 
