@@ -9,4 +9,5 @@ Aplicação web de uma lista de afazeres para os usuários possam se organizar e
 * JavaScript
 
 # Página da Aplicação
-![PAge](https://github.com/DiogoMelloDM7/Todo-List-JS/assets/136912625/d3f6ff97-4b15-41d0-bbc5-a91908acfb38)
+![PAge](https://github.com/DiogoMelloDM7/Todo-List-JS/assets/136912625/528ba500-9c6e-4db3-9f34-18d3aaf3bd04)
+
